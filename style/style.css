@@ -1,0 +1,61 @@
+.mainContainer {
+	padding: 20px;
+}
+h1 {
+	font-size: 34px;
+	text-align: center;
+}
+h2 {
+	font-size: 26px;
+	text-align: center;
+}
+p {
+	font-size: 18px;
+}
+.header {
+	color: #000000 !important;
+}
+.lead {
+	text-align: center;
+	font-size: 26px !important;
+	text-align: center !important;
+}
+.portfolio {
+	border: 1px solid #000000;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.web-text {
+	padding-bottom: 10px;
+}
+.btn-gardenmania {
+	background-color: #a0ce4e !important;
+	color: #fff !important;
+	border-color: #a0ce4e !important;
+}
+.mainContainer {
+	background-color: #fafafa !important;
+}
+.card {
+	padding-right: 20px;
+	padding-left: 20px;
+}
+.btn-spectacles {
+	background-color: #FFFC00 !important;
+	color: #000000 !important;
+	border-color: #FFFC00 !important;
+}
+.imgur {
+	height: 500px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+img {
+	border-radius: 10% !important;
+}
+.images {
+	text-align: center !important;
+}
+.videos {
+	text-align: center !important;
+}
